@@ -9,6 +9,8 @@ sites:
     url: https://www.kruidvat.nl/
   - name: KV BE
     url: https://www.kruidvat.be/
+  - name: TP NL
+    url: https://www.trekpleister.nl 
   - name: IPv6 test
     url: forwardemail.net
     port: 80

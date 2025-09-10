@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: KV NL
     url: https://www.kruidvat.nl/
+  - name: KV BE
+    url: https://www.kruidvat.be/
   - name: IPv6 test
     url: forwardemail.net
     port: 80

@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 71
+      "2025-09-11": 91
     }
   },
   {
@@ -56,47 +56,7 @@
     "timeMonth": 716,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-09-11": 71
-    }
-  },
-  {
-    "name": "KV BE (PROD)",
-    "url": "https://www.kruidvat.be/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.kruidvat.be.ico",
-    "slug": "kv-be-prod",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-09-11": 71
-    }
-  },
-  {
-    "name": "TP NL (PROD)",
-    "url": "https://www.trekpleister.nl/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.trekpleister.nl.ico",
-    "slug": "tp-nl-prod",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-09-11": 71
+      "2025-09-11": 91
     }
   },
   {
@@ -116,15 +76,15 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 5
+      "2025-09-11": 26
     }
   },
   {
-    "name": "MRN",
-    "url": "https://www.marionnaud.it/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.marionnaud.it.ico",
-    "slug": "mrn",
-    "status": "down",
+    "name": "KV NL (P1)",
+    "url": "https://kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com.ico",
+    "slug": "kv-nl-p1",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -136,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 5
+      "2025-09-11": 2
     }
   },
   {

@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 41,
+      "2025-09-11": 448,
       "2025-09-10": 560
     }
   },
@@ -57,13 +57,13 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 41,
+      "2025-09-11": 448,
       "2025-09-10": 560
     }
   },
   {
     "name": "TP NL",
-    "url": "https://www.trekpleister.nl",
+    "url": "https://www.trekpleister.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.trekpleister.nl.ico",
     "slug": "tp-nl",
     "status": "down",
@@ -78,9 +78,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 41,
+      "2025-09-11": 448,
       "2025-09-10": 517
     }
+  },
+  {
+    "name": "Corriere",
+    "url": "https://www.corriere.it",
+    "icon": "https://icons.duckduckgo.com/ip3/www.corriere.it.ico",
+    "slug": "corriere",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 732,
+    "timeDay": 732,
+    "timeWeek": 732,
+    "timeMonth": 732,
+    "timeYear": 732,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPv6 test",

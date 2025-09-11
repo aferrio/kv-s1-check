@@ -6,13 +6,13 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: KV BE (P1)
-    url: https://kvb.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/
+    url: https://kvb.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com
   - name: KV NL (P1)
-    url: https://kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/
+    url: https://kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com
   - name: TP (P1)
-    url: https://tp.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/
+    url: https://tp.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com
   - name: KV-NL (S1)
-    url: https://kvn.cmb8j9fjhz-emea2aswa1-s1-public.model-t.cc.commerce.ondemand.com/
+    url: https://kvn.cmb8j9fjhz-emea2aswa1-s1-public.model-t.cc.commerce.ondemand.com
   - name: IPv6 test
     url: forwardemail.net
     port: 80

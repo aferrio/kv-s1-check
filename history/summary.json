@@ -20,10 +20,10 @@
     }
   },
   {
-    "name": "KV NL",
+    "name": "KV-NL (PROD)",
     "url": "https://www.kruidvat.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kruidvat.nl.ico",
-    "slug": "kv-nl",
+    "slug": "kv-nl-prod",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -36,15 +36,34 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 448,
-      "2025-09-10": 560
+      "2025-09-11": 5
     }
   },
   {
-    "name": "KV BE",
+    "name": "KV-NL (S1)",
+    "url": "https://kvn.cmb8j9fjhz-emea2aswa1-s1-public.model-t.cc.commerce.ondemand.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/kvn.cmb8j9fjhz-emea2aswa1-s1-public.model-t.cc.commerce.ondemand.com.ico",
+    "slug": "kv-nl-s1",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 716,
+    "timeDay": 716,
+    "timeWeek": 716,
+    "timeMonth": 716,
+    "timeYear": 716,
+    "dailyMinutesDown": {
+      "2025-09-11": 5
+    }
+  },
+  {
+    "name": "KV BE (PROD)",
     "url": "https://www.kruidvat.be/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kruidvat.be.ico",
-    "slug": "kv-be",
+    "slug": "kv-be-prod",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -57,15 +76,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 448,
-      "2025-09-10": 560
+      "2025-09-11": 5
     }
   },
   {
-    "name": "TP NL",
+    "name": "TP NL (PROD)",
     "url": "https://www.trekpleister.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.trekpleister.nl.ico",
-    "slug": "tp-nl",
+    "slug": "tp-nl-prod",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -78,8 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 448,
-      "2025-09-10": 517
+      "2025-09-11": 5
     }
   },
   {

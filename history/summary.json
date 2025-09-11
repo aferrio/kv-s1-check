@@ -20,23 +20,63 @@
     }
   },
   {
-    "name": "KV-NL (PROD)",
-    "url": "https://www.kruidvat.nl/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.kruidvat.nl.ico",
-    "slug": "kv-nl-prod",
+    "name": "KV BE (P1)",
+    "url": "https://kvb.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/kvb.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com.ico",
+    "slug": "kv-be-p1",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 471,
+    "timeDay": 471,
+    "timeWeek": 471,
+    "timeMonth": 471,
+    "timeYear": 471,
     "dailyMinutesDown": {
-      "2025-09-11": 91
+      "2025-09-11": 11
+    }
+  },
+  {
+    "name": "KV NL (P1)",
+    "url": "https://kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com.ico",
+    "slug": "kv-nl-p1",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 636,
+    "timeDay": 636,
+    "timeWeek": 636,
+    "timeMonth": 636,
+    "timeYear": 636,
+    "dailyMinutesDown": {
+      "2025-09-11": 22
+    }
+  },
+  {
+    "name": "TP (P1)",
+    "url": "https://tp.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/tp.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com.ico",
+    "slug": "tp-p1",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 537,
+    "timeDay": 537,
+    "timeWeek": 537,
+    "timeMonth": 537,
+    "timeYear": 537,
+    "dailyMinutesDown": {
+      "2025-09-11": 11
     }
   },
   {
@@ -56,47 +96,7 @@
     "timeMonth": 716,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-09-11": 91
-    }
-  },
-  {
-    "name": "TP",
-    "url": "https://www.trekpleister.nl",
-    "icon": "https://icons.duckduckgo.com/ip3/www.trekpleister.nl.ico",
-    "slug": "tp",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-09-11": 26
-    }
-  },
-  {
-    "name": "KV NL (P1)",
-    "url": "https://kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com.ico",
-    "slug": "kv-nl-p1",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-09-11": 2
+      "2025-09-11": 111
     }
   },
   {

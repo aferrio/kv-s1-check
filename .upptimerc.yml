@@ -7,8 +7,10 @@ sites:
     url: https://www.google.com
   - name: KV-NL
     url: https://www.kruidvat.nl/
+    method: POST
   - name: KV BE
     url: https://www.kruidvat.be/
+    method: GET
   - name: TP NL
     url: https://www.trekpleister.nl/
   - name: Corriere

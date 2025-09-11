@@ -13,8 +13,10 @@ sites:
     url: https://www.kruidvat.be/
   - name: TP NL (PROD)
     url: https://www.trekpleister.nl/
-  - name: Corriere
-    url: https://www.corriere.it
+  - name: TP
+    url: https://www.trekpleister.nl
+  - name: MRN
+    url: https://www.marionnaud.it/
   - name: IPv6 test
     url: forwardemail.net
     port: 80

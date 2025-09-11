@@ -5,13 +5,13 @@ repo: kv-s1-check # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: KV-NL
+  - name: KV-NL (PROD)
     url: https://www.kruidvat.nl/
-    method: POST
-  - name: KV BE
+  - name: KV-NL (S1)
+    url: https://kvn.cmb8j9fjhz-emea2aswa1-s1-public.model-t.cc.commerce.ondemand.com/
+  - name: KV BE (PROD)
     url: https://www.kruidvat.be/
-    method: GET
-  - name: TP NL
+  - name: TP NL (PROD)
     url: https://www.trekpleister.nl/
   - name: Corriere
     url: https://www.corriere.it
@@ -29,7 +29,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a simple monitoring for KV websites
   navbar:
     - title: Status
       href: /

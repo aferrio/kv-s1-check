@@ -6,22 +6,22 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 185,
-    "timeWeek": 185,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "time": 173,
+    "timeDay": 138,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2025-09-10": 13
     }
   },
   {
     "name": "KV BE (P1)",
-    "url": "https://kvb.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/",
+    "url": "https://kvb.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com",
     "icon": "https://icons.duckduckgo.com/ip3/kvb.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com.ico",
     "slug": "kv-be-p1",
     "status": "down",
@@ -30,18 +30,19 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 471,
-    "timeDay": 471,
-    "timeWeek": 471,
-    "timeMonth": 471,
-    "timeYear": 471,
+    "time": 565,
+    "timeDay": 565,
+    "timeWeek": 565,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2025-09-11": 11
+      "2025-09-12": 40,
+      "2025-09-11": 841
     }
   },
   {
     "name": "KV NL (P1)",
-    "url": "https://kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/",
+    "url": "https://kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com",
     "icon": "https://icons.duckduckgo.com/ip3/kvn.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com.ico",
     "slug": "kv-nl-p1",
     "status": "down",
@@ -50,18 +51,19 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 636,
-    "timeDay": 636,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 602,
+    "timeDay": 602,
+    "timeWeek": 602,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {
-      "2025-09-11": 22
+      "2025-09-12": 40,
+      "2025-09-11": 852
     }
   },
   {
     "name": "TP (P1)",
-    "url": "https://tp.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com/",
+    "url": "https://tp.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com",
     "icon": "https://icons.duckduckgo.com/ip3/tp.cmb8j9fjhz-emea2aswa1-p1-public.model-t.cc.commerce.ondemand.com.ico",
     "slug": "tp-p1",
     "status": "down",
@@ -70,18 +72,19 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 537,
-    "timeDay": 537,
-    "timeWeek": 537,
-    "timeMonth": 537,
-    "timeYear": 537,
+    "time": 529,
+    "timeDay": 529,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2025-09-11": 11
+      "2025-09-12": 40,
+      "2025-09-11": 841
     }
   },
   {
     "name": "KV-NL (S1)",
-    "url": "https://kvn.cmb8j9fjhz-emea2aswa1-s1-public.model-t.cc.commerce.ondemand.com/",
+    "url": "https://kvn.cmb8j9fjhz-emea2aswa1-s1-public.model-t.cc.commerce.ondemand.com",
     "icon": "https://icons.duckduckgo.com/ip3/kvn.cmb8j9fjhz-emea2aswa1-s1-public.model-t.cc.commerce.ondemand.com.ico",
     "slug": "kv-nl-s1",
     "status": "down",
@@ -90,13 +93,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 716,
-    "timeDay": 716,
-    "timeWeek": 716,
-    "timeMonth": 716,
-    "timeYear": 716,
+    "time": 708,
+    "timeDay": 708,
+    "timeWeek": 708,
+    "timeMonth": 708,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-09-11": 111
+      "2025-09-12": 40,
+      "2025-09-11": 941
     }
   },
   {
